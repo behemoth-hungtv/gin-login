@@ -120,7 +120,6 @@ watch(loginDay, value => {
 
 <template>
   <div class="select-none">
-    <h3>{{ locale }}</h3>
     <img :src="bg" class="wave" />
     <div class="flex-c absolute right-5 top-3">
       <!-- 主题 -->
